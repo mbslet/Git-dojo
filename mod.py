@@ -5,7 +5,7 @@ def ExpBin(base, expoente, mod):
 
     return resp
 
-base = int(input("Digite a base:"))
-expoente = int(input("Digite o expoente:"))
-mod = int(input("Digite o modulo:"))
+base = int(input("Digite a bas:"))
+expoente = int(input("Digite o exp:"))
+mod = int(input("Digite o mod:"))
 print(ExpBin(base,expoente,mod))
