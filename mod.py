@@ -7,5 +7,5 @@ def ExpBin(base, expoente, mod):
 
 base = int(input("Base:"))
 expoente = int(input("Expoente:"))
-mod = int(input("Módulo:"))
+algumaCoisa = int(input("Módulo:"))
 print(ExpBin(base,expoente,mod))
