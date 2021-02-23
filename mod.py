@@ -7,5 +7,5 @@ def ExpBin(base, expoente, modo):
 
 base = int(input("Digite a bas:"))
 expoente = int(input("Digite o exp:"))
-modo = int(input("Digite o mod:"))
+modo = int(input("Digite o modo1:"))
 print(ExpBin(base,expoente,modo))
