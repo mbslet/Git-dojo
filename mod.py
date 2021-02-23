@@ -8,4 +8,4 @@ def ExpBin(base, expoente, moda):
 base = int(input("Digite a base:"))
 expoente = int(input("Digite o expoente, por favorgi:"))
 mod = int(input("Digite o modulo:"))
-print(ExpBin(base,expoente,mod))
+print(ExpBin(base,expoente,mod))a
